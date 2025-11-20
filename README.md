@@ -447,13 +447,13 @@ AI-powered tools for visual, design, and creative work.
 
 ###  Must-Follow AI Researchers & Pioneers
 
-** Turing Award Winners & Pioneers**
+**Turing Award Winners & Pioneers**
 - [@geoffreyhinton](https://twitter.com/geoffreyhinton) - Geoffrey Hinton (Godfather of Deep Learning)
 - [@ylecun](https://twitter.com/ylecun) - Yann LeCun (CNNs, Meta AI Chief Scientist)
 - [@yoshuabengio](https://twitter.com/yoshuabengio) - Yoshua Bengio (Deep Learning Pioneer)
 - [@AndrewYNg](https://twitter.com/AndrewYNg) - Andrew Ng (DeepLearning.AI, Stanford)
 
-** Active Researchers & Thought Leaders**
+**Active Researchers & Thought Leaders**
 - [@karpathy](https://twitter.com/karpathy) - Andrej Karpathy (OpenAI, ex-Tesla AI Director)
 - [@lexfridman](https://twitter.com/lexfridman) - Lex Fridman (MIT, Podcast Host) - 4.2M followers
 - [@fchollet](https://twitter.com/fchollet) - François Chollet (Keras Creator, Google)
@@ -461,7 +461,7 @@ AI-powered tools for visual, design, and creative work.
 - [@feifei_li](https://twitter.com/feifei_li) - Fei-Fei Li (Stanford HAI, ImageNet)
 - [@JeffDean](https://twitter.com/JeffDean) - Jeff Dean (Google Senior Fellow, Google AI)
 
-** Industry Leaders**
+**Industry Leaders**
 - [@sama](https://twitter.com/sama) - Sam Altman (OpenAI CEO) - 3.1M followers
 - [@demishassabis](https://twitter.com/demishassabis) - Demis Hassabis (Google DeepMind CEO)
 - [@darioamodei](https://twitter.com/darioamodei) - Dario Amodei (Anthropic CEO)
