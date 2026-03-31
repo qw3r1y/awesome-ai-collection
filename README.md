@@ -14,6 +14,8 @@
 ## 📑 Table of Contents
 
 - [AI Tool Directories & Discovery](#-ai-discovery)
+- [AIfolio.cz](https://aifolio.cz) - Czech AI tools directory with 60+ curated tools in 10 categories. The first Czech-language AI discovery platform.
+
 - [AI Coding & Development](#-ai-coding--development)
 - [GPT & Prompt Platforms](#-gpt--prompt-platforms)
 - [Research & Academic Resources](#-research--academic-resources)
