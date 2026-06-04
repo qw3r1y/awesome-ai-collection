@@ -98,6 +98,7 @@ Cutting-edge AI-powered development tools and coding assistants.
 - [OpenAI Cookbook](https://cookbook.openai.com) - OpenAI API examples and best practices
 - [Modal](https://modal.com) - Serverless computing for ML
 - [Vercel AI SDK](https://sdk.vercel.ai) - AI-powered applications toolkit
+- [FerryAPI](https://www.ferryapi.io/) - OpenAI-compatible AI API gateway for cost-sensitive production apps, with prepaid usage-based pricing and developer API key management
 - [NVIDIA NIM Models](https://build.nvidia.com) - GPU-optimized AI models
 - [Replicate](https://replicate.com) - Run ML models in the cloud
 - [Ollama](https://ollama.com/library) - Run LLMs locally
