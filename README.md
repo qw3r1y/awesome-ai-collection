@@ -412,6 +412,7 @@ AI-powered tools for visual, design, and creative work.
 - [Firefly](https://www.adobe.com/products/firefly.html) - Adobe's AI image generator
 - [Ideogram](https://ideogram.ai) - AI with great text rendering
 - [Flux](https://blackforestlabs.ai) - New frontier in image generation
+- [Seedream AI Studio](https://seedream4.video/) - ByteDance's multi-model platform (Seedream 5.0/4.5/4.0), ranked #1 in AI Image Arena; supports 10 reference images and video via Kling 2.1
 
 ###  AI Design Tools
 - [Canva AI](https://www.canva.com/ai-image-generator) - AI design features in Canva
