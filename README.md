@@ -16,6 +16,7 @@
 - [AI Tool Directories & Discovery](#-ai-discovery)
 - [AI Coding & Development](#-ai-coding--development)
 - [GPT & Prompt Platforms](#-gpt--prompt-platforms)
+- [AI Productivity & Knowledge Tools](#-ai-productivity--knowledge-tools)
 - [Research & Academic Resources](#-research--academic-resources)
 - [Learning & Education](#-learning--education)
 - [Communities](#-communities)
@@ -113,6 +114,12 @@ Explore and share GPT applications and prompts.
 - [PromptBase](https://promptbase.com) - Buy and sell quality prompts
 - [Poe](https://poe.com) - Chat with multiple AI models
 
+## 🧠 AI Productivity & Knowledge Tools
+
+Tools for capturing, organizing, and retrieving personal or team knowledge with AI.
+
+###  Personal Knowledge & Memory
+- [Remio](https://remio.ai/) - Local-first AI memory and knowledge base desktop app that parses files, webpages, recordings, emails, messages, images, and notes into local indexes and vectors for focused personal context retrieval.
 
 
 ## 📚 Research & Academic Resources
