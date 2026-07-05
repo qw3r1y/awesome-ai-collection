@@ -287,6 +287,7 @@ Powerful automation platforms for connecting apps and building workflows.
 - [Zapier Central](https://zapier.com/central) - AI-powered bots for business
 - [Zapier Canvas](https://zapier.com/canvas) - Visual process mapping with AI
 - [Relay.app](https://relay.app) - AI-powered workflow automation
+- [Tudo](https://blynkai.app/tudo/) - AI task capture and personal planning for voice notes, screenshots, and organized to-dos
 
 ###  Enterprise Integration Tools
 - [Integromat/Celigo](https://www.celigo.com) - iPaaS solution
