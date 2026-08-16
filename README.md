@@ -369,6 +369,7 @@ Professional AI-powered video creation and avatar tools.
 - [Captions AI](https://www.captions.ai) - Automated video editing with captions
 - [InVideo](https://invideo.io) - AI video creation and editing
 - [Pictory](https://pictory.ai) - Turn text content into videos
+- [videos.social](https://videos.social/?utm_source=awesome-ai-collection&utm_medium=directory&utm_campaign=listing-wave-d) - Turn blogs, PDFs, and prompts into editable faceless videos
 - [Vidnoz](https://www.vidnoz.com) - Free AI video tools
 - [revid.ai](https://revid.ai) - Viral video generator with TikTok trends
 - [Munch](https://www.getmunch.com) - Extract highlights from long videos
