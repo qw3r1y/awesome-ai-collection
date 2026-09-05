@@ -1,8 +1,8 @@
 # 🤖 AI Resources & Tools Directory
 
-> A comprehensive, curated collection of 300+ AI tools, learning resources, communities, and development platforms for developers, researchers, creators, and AI enthusiasts. Updated November 2025.
+> A comprehensive, curated collection of 300+ AI tools, learning resources, communities, and development platforms for developers, researchers, creators, and AI enthusiasts. Updated September 2026.
 
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-November%202025-brightgreen.svg)](https://github.com)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-September%202026-brightgreen.svg)](https://github.com)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com)
 
 <div align="center">
@@ -93,6 +93,7 @@ Cutting-edge AI-powered development tools and coding assistants.
 - [Manus](https://manus.com) - AI automation for coding workflows
 
 ###  Development Tools & Resources
+- [Agent QA](https://github.com/vostride/agent-qa) - Natural-language web and mobile tests with execution memory and MCP access; source-available (FSL-1.1-ALv2), with model costs separate.
 - [LangChain Docs](https://python.langchain.com) - LLM application framework
 - [LlamaIndex Docs](https://docs.llamaindex.ai) - Data framework for LLMs
 - [OpenAI Cookbook](https://cookbook.openai.com) - OpenAI API examples and best practices
