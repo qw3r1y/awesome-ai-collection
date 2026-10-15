@@ -38,6 +38,7 @@ Comprehensive platforms covering all AI tool categories.
 
 - [AIToolHunt](https://www.aitoolhunt.com) - Curated collection with daily updates across 50+ categories
 - [Futurepedia](https://www.futurepedia.io) - 4000+ AI tools, daily updates, voting system
+- [51发现导航](https://51cgw9.cc) - Chinese AI tools directory with mainland-access and free-tier labels
 - [Toolify](https://www.toolify.ai) - 27,000+ tools in 459 categories, powerful search
 - [AIXploria](https://www.aixploria.com/en) - 8,285+ verified tools, community voting, ranking system
 - [There's an AI For That](https://theresanaiforthat.com) - Natural language search, problem-solving approach
